@@ -1,0 +1,11 @@
+[package]
+name = "game"
+version = "0.1.0"
+authors = ["nicho"]
+
+[dependencies]
+ggez = "0.4"
+ncollide = "*"
+nalgebra = "*"
+
+
